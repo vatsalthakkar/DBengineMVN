@@ -13,6 +13,7 @@ import java.util.*;
  * @author Vatsal
  *
  */
+
 class Testcase {
 
 	String qry="select id,win_by_runs,season,winner from ipl.csv where id<10";
